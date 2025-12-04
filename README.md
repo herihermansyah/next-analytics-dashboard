@@ -52,13 +52,10 @@ Live Demo 👉 **[https://next-analytics-dashboard-rosy.vercel.app/](https://nex
 
 ## 🖼️ **Preview**
 
-```
 ![Dashboard](/screenshots/dashboard.png)
 ![table](/screenshots/table.png)
 ![preview](/screenshots/preview.png)
 ![responsive](/screenshots/responsive.png)
-```
-
 ---
 
 ## 📦 **Installation**
