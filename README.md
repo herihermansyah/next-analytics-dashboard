@@ -1,36 +1,105 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# **next-analytics-dashboard**
 
-## Getting Started
+A modern analytics dashboard built with **Next.js** and powered by interactive charts, smooth animations, and a fully responsive layout.
+Live Demo 👉 **[https://next-analytics-dashboard-rosy.vercel.app/](https://next-analytics-dashboard-rosy.vercel.app/)**
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 🚀 **Tech Stack**
+
+### **Framework**
+
+- **Next.js**
+
+### **Styling**
+
+- **TailwindCSS**
+- **shadcn/ui**
+
+### **Icons**
+
+- **lucide-react**
+
+### **Charts**
+
+- **Recharts**
+
+### **Animations**
+
+- **Framer Motion**
+
+### **HTTP Client**
+
+- **Axios**
+
+### **Data Source**
+
+- **dummyjson.com**
+
+---
+
+## 📌 **Features**
+
+- 📊 **Interactive Charts** (Recharts)
+- 🎨 **Dark Mode** (shadcn/ui + next-themes)
+- 🧭 **Sidebar Navigation & Header** (shadcn/ui components)
+- 📝 **Todo List Feature**
+- ⚡ **Smooth Motion Animations** (Framer Motion)
+- 📱 **Fully Responsive UI**
+- 🌐 **API Integration with Axios**
+
+---
+
+## 🖼️ **Preview**
+
+```
+![Dashboard](/screenshots/dashboard.png)
+![table](/screenshots/table.png)
+![preview](/screenshots/preview.png)
+![responsive](/screenshots/responsive.png)
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📦 **Installation**
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+# Clone the repository
+git clone https://github.com/herihermansyah/next-analytics-dashboard.git
 
-## Learn More
+# Move into project directory
+cd next-analytics-dashboard
 
-To learn more about Next.js, take a look at the following resources:
+# Install dependencies
+npm install
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# Run the development server
+npm run dev
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Project will run at:
+👉 **[http://localhost:3000](http://localhost:3000)**
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🙌 **Contributions**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Contributions are always welcome!
+Feel free to submit issues or pull requests.
+
+---
+
+## 👨‍💻 **Author**
+
+**Heri Hermansyah**
+
+🔗 LinkedIn: [https://www.linkedin.com/in/heri-hermansyah/](https://www.linkedin.com/in/heri-hermansyah/)
+🔗 GitHub: [https://github.com/herihermansyah](https://github.com/herihermansyah)
+
+---
+
+## 📜 **License**
+
+This project is open-source under the **MIT License**.
+
+---
